@@ -6,8 +6,13 @@ Questo progetto mira a esplorare e analizzare vari aspetti delle abitudini legat
 Fonti
 
 Abitudine al fumo - età dettaglio <span>http://dati.istat.it/index.aspx?queryid=15512</span>
+
 Aperitivi, amari e liquori - età dettaglio <span>http://dati.istat.it/index.aspx?queryid=16780</span>
+
 Indice di massa corporea e controllo del peso - sesso <span>http://dati.istat.it/index.aspx?queryid=16735</span>
+
 Salumi, carni, uova, pesce - età dettaglio <span>http://dati.istat.it/index.aspx?queryid=16810</span>
+
 Stato di salute - età dettaglio <span>http://dati.istat.it/index.aspx?queryid=15445</span>
+
 Consumo di farmaci - età dettaglio <span>http://dati.istat.it/index.aspx?queryid=15464</span>
