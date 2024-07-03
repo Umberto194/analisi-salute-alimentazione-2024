@@ -5,7 +5,7 @@ Questo progetto mira a esplorare e analizzare vari aspetti delle abitudini legat
 
 Fonti
 
-Abitudine al fumo - età dettaglio <span>http://dati.istat.it/index.aspx?queryid=15512</span>
+Abitudine al fumo - età dettaglio http://dati.istat.it/index.aspx?queryid=15512
 
 Aperitivi, amari e liquori - età dettaglio <span>http://dati.istat.it/index.aspx?queryid=16780</span>
 
